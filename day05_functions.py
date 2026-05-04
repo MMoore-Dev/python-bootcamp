@@ -54,4 +54,4 @@ perf = calculate_performance(842, 900)
 qual = calculate_quality(821, 842)
 
 oee_score, oee_status = calculate_oee(avail, perf, qual)
-print_report(machine, shift, oee_score, oee_status)
+print_report(machine, shift, oee_score, oee_status)    
