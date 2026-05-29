@@ -42,7 +42,12 @@ python-bootcamp/
 ├── sample_data.csv             # Capstone — Simulated production line data
 └── README.md
 ```
+### 📊 Notebook Viewers
+GitHub may not render large notebooks inline. View them directly here:
 
+- [Day 13 — Jupyter Intro](https://nbviewer.org/github/MMoore-Dev/python-bootcamp/blob/main/day13_jupyter_intro.ipynb)
+- [Day 14 — Pandas Fundamentals](https://nbviewer.org/github/MMoore-Dev/python-bootcamp/blob/main/day14_pandas_fundamentals.ipynb)
+- [Day 15 — Matplotlib Dashboard](https://nbviewer.org/github/MMoore-Dev/python-bootcamp/blob/main/day15_matplotlib.ipynb)
 ---
 
 ## Capstone Project — Manufacturing OEE & Defect Analytics Dashboard
