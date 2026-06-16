@@ -45,10 +45,15 @@ python-bootcamp/
 ### 📊 Notebook Viewers
 GitHub may not render large notebooks inline. View them directly here:
 
+### 📊 Notebook Viewers
+> If nbviewer links return errors, try refreshing — or view notebooks directly on GitHub.
+
 - [Day 13 — Jupyter Intro](https://nbviewer.org/github/MMoore-Dev/python-bootcamp/blob/main/day13_jupyter_intro.ipynb)
-- [Day 14 — Pandas Fundamentals](https://nbviewer.org/github/MMoore-Dev/python-bootcamp/blob/main/day14_pandas_fundamentals.ipynb)
+- [Day 14 — Pandas Fundamentals](https://nbviewer.org/github/MMoore-Dev/python-bootcamp/blob/main/day14_pandas_fundamental.ipynb)
 - [Day 15 — Matplotlib Dashboard](https://nbviewer.org/github/MMoore-Dev/python-bootcamp/blob/main/day15_matplotlib.ipynb)
----
+- [Day 16 — Advanced Pandas](https://nbviewer.org/github/MMoore-Dev/python-bootcamp/blob/main/day16_advanced_pandas.ipynb)
+- [Day 19 — Pandas Deep Dive](https://nbviewer.org/github/MMoore-Dev/python-bootcamp/blob/main/day19_pandas_deep_dive.ipynb)
+- [Day 20 — Foundation Summary](https://nbviewer.org/github/MMoore-Dev/python-bootcamp/blob/main/day20_foundation_summary.ipynb)
 
 ## Capstone Project — Manufacturing OEE & Defect Analytics Dashboard
 
